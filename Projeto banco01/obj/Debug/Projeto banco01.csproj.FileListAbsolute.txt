@@ -1,0 +1,38 @@
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\Projeto banco01.exe.config
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\Projeto banco01.exe
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\Projeto banco01.pdb
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\Google.Protobuf.dll
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\MySql.Data.dll
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\Zstandard.Net.dll
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\Google.Protobuf.xml
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\MySql.Data.xml
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\obj\Debug\Projeto banco01.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\obj\Debug\Projeto_banco01.Form1.resources
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\obj\Debug\Projeto_banco01.Properties.Resources.resources
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\obj\Debug\Projeto banco01.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\obj\Debug\Projeto banco01.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\obj\Debug\Projeto banco01.csproj.CopyComplete
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\obj\Debug\Projeto banco01.exe
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\obj\Debug\Projeto banco01.pdb
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\obj\Debug\Projeto_banco01.FrmFornecedores.resources
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\obj\Debug\Projeto_banco01.FrmFuncionarios.resources
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\obj\Debug\Projeto_banco01.FrmInicio.resources
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\obj\Debug\Projeto_banco01.FrmLogin.resources
+C:\Users\User\OneDrive\Escritorio\EAD 2 ano\DS\Conexão banco]\Projeto banco01\Projeto banco01\obj\Debug\Projeto_banco01.FrmCAcesso.resources
